@@ -1,1 +1,1 @@
-This repo contains the Java programs for weekly lab
+This repo includes the lab exercises for the course CS6308-Java Programming
